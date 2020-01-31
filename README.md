@@ -1,3 +1,9 @@
+# MySQLdb
+
+SUMMARY As part of the Road to Hire program, students are engaged in the design, build and deployment of an ecommerce site. The site is constructed in stages over the course of the program to help reinforce concepts and refine skills in commercial application development.
+
+In Phases III and IV, a MYSQL database will be designed and deployed on desktops to accommodate the ecommerce database. The ecommerce database will be comprised of 3 tables, storing information product, pricing, and contacts. With the MYSQL database designed, deployed and tested, students will construct and api server using nodejs, refactor their product page from Stage II, and integrate their webpages, api server and database to meet a set of requirements.
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
